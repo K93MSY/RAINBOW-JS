@@ -38,7 +38,7 @@ hydr.stroke() ;
 
 setInterval(drw,20);
 
-var music = new Audio('https://letscdn.wawa93.repl.co/dontworry.wav');
+var music = new Audio('dontworry.mp3');
 var tf=0;
 function playmc(){
     if(tf==0){
